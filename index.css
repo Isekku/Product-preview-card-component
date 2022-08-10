@@ -1,0 +1,69 @@
+/*
+font-family: 'Fraunces', serif;
+font-family: 'Montserrat', sans-serif;
+*/
+
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+.mainContainer{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Perfume Image and Description*/
+
+.imageDesktop{
+    width: 360px;
+    padding-right: 8px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.contenu{
+    padding: 20px;
+
+}
+
+/*Text personalisation*/
+.perfumeText{
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    background-color: red;
+}
+
+.titleParfum{
+    font-family: 'Fraunces', serif;
+    font-size: 40px;
+    color: hsl(212, 21%, 14%);
+    background-color: red;
+}
+
+.descriptionParfume{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+.textPrice{
+    display: flex;
+    align-items: center;
+}
+
+.newPrice{
+    font-family: 'Fraunces', serif;
+    color: #3D8168;
+    font-size: 35px;
+    padding-right: 15px;
+}
+
+.oldPrice{
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    text-decoration-line: line-through;
+    font-size: 14px;
+}
