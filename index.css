@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+article{
+    display: grid;
+    background-color: white;
+}
+/*Perfume article*/
+
+#perfumeImageDesktop{
+    width: 300px;
+    border: 3px dotted red;
+}
+
+.perfumeDesc{
+    border: 3px solid blue;
+    padding: 25px;
+}
+
+/* Perfume description*/
+
