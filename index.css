@@ -1,1 +1,39 @@
-/*hello*/
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+#baseContener{
+    display: flex;
+    box-sizing: border-box;
+    background-color: red;
+    border-radius: 15px;
+    height: 450px;
+    width: 600px;
+}
+
+#subContener{
+    flex: 1;
+}
+
+#imageContener{
+    background-color: green;
+    width: 100%;
+}
+
+#image{
+}
+
+#descriptionContener{
+    background-color: yellow;
+    width: 100%;
+}
