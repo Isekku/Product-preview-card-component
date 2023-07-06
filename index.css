@@ -4,7 +4,7 @@ html{
 }
 
 body{
-    background-color: blue;
+    background-color: hsl(30, 38%, 92%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,8 +15,6 @@ body{
 #baseContener{
     display: flex;
     box-sizing: border-box;
-    background-color: red;
-    border-radius: 15px;
     height: 450px;
     width: 600px;
 }
@@ -26,14 +24,16 @@ body{
 }
 
 #imageContener{
-    background-color: green;
     width: 100%;
-}
-
-#image{
+    background-image: url(images/image-product-desktop.jpg);
+    background-size: contain;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
 }
 
 #descriptionContener{
-    background-color: yellow;
+    background-color: hsl(0, 0%, 100%);
     width: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
