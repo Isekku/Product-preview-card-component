@@ -27,6 +27,7 @@ body{
     width: 100%;
     background-image: url(images/image-product-desktop.jpg);
     background-size: contain;
+    background-repeat: no-repeat;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
 }
@@ -124,4 +125,57 @@ body{
 
 button{
     background-color: blue;
+}
+
+@media only screen and (max-width: 480px) {
+
+    #baseContener{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #baseContener{
+        width: 340px;
+        height: 607px;
+    }
+
+    #imageContener{
+        flex: 2;
+        border-bottom-left-radius: 0%;
+        border-top-right-radius: 15px;
+        background-image: url(images/image-product-mobile.jpg);
+        background-size: contain;
+    }
+
+    #centeredContener{
+        width: 85%;
+        height: 90%;
+    }
+
+    #descriptionContener{
+        flex: 3.1;
+        border-top-right-radius: 0%;
+        border-bottom-left-radius: 15px;
+    }
+
+    #categoryText{
+        flex: 1;
+    }
+
+    #titleText{
+        flex: 2;
+        font-size: 30px;
+    }
+
+    #descriptionText{
+        flex: 3;
+    }
+
+    #priceContener{
+        flex: 2;
+    }
+
+    #buttonCart{
+        flex: 1;
+    }
 }
