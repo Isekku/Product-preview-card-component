@@ -105,6 +105,10 @@ body{
     justify-content: center;
 }
 
+#buttonCart:active{
+    background-color: rgb(24, 65, 49);
+}
+
 #cart{
     font-size: 14px;
 }
@@ -116,4 +120,8 @@ body{
     color: white;
     text-align: center;
     margin: 5%;
+}
+
+button{
+    background-color: blue;
 }
