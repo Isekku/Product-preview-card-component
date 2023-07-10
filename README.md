@@ -55,7 +55,7 @@ I want to learn more about responsive content and how to use gridbox. I know fle
 
 ### Useful resources
 
-- [Pierre Giraud](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/m) - The website is in french but it's with that than i learned how to code in HTML and CSS.
+- [Pierre Giraud](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - The website is in french but it's with that than i learned how to code in HTML and CSS.
 
 ## Author
 
