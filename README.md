@@ -28,8 +28,6 @@ Users should be able to:
 
 ![](./images/screenshot.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -42,8 +40,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -65,7 +61,7 @@ I want to learn more about responsive content and how to use gridbox. I know fle
 
 ### Useful resources
 
-- [Pierre Giraud](https://www.example.com) - The website is in french but it's with that than i learned how to code in HTML and CSS.
+- [Pierre Giraud](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/m) - The website is in french but it's with that than i learned how to code in HTML and CSS.
 
 ## Author
 
