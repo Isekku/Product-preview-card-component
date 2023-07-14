@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://sprightly-khapse-cdf3c0.netlify.app
+- Live Site URL: [https://sprightly-khapse-cdf3c0.netlify.app](https://tubular-rolypoly-769053.netlify.app)
 
 ## My process
 
